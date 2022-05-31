@@ -31,7 +31,7 @@ The project will be evaluated by a Udacity code reviewer according to the Landin
     >  scroll(), scrollBy(), and scrollIntoView()
 # Features
 
-* Active State change for sections and nav links as user scrolls the viewport
+* Active State change for sections as user scrolls the viewport
 * Smooth scrolling using `scrollIntoView` when a nav link is clicked 
 
 
